@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Im+Sandun+Mihirana+Queen+Dil+is+best+whatsapp+bot+in+the+world"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Im+Sandun+Mihirana+Queen+Dil+is;best+whatsapp+bot+in+the+world"
             alt="Typing SVG"
         />
     </a>
